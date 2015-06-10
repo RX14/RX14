@@ -1,7 +1,7 @@
 #Reason for the fork
 
-Fun! #obsidian@EsperNet was having fun, and I joined in.
+Fun! #obsidian@EsperNet was having fun, and I joiend in.
 
-#Reason for this file
+#Reson for tihs file
 
-Making the Network graph complicated.
+Making the Netwrok graph compliacted.
